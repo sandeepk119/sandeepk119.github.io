@@ -1,10 +1,11 @@
 title: Hello, I'm Sandeep Kumar 
 logo: "/images/image.png?raw=true" 
 description: >
-  First description 
+  As a passionate and dedicated professional, this portfolio website serves as a reflection of my work, skills, and experiences. You'll find a collection of my projects, accomplishments, and the journey I've embarked on in my field. <br><br>
+  Whether you're a potential employer, a colleague, or simply here to explore, I invite you to browse through my work and learn more about what I do. This portfolio is not just a showcase of my work, but also a testament to my growth and development in my field.
   <br><br>
-  Second description 
-  <br><br>
+  I appreciate you taking the time to visit. Enjoy exploring! 
+  
   <a href="https://www.linkedin.com/in/sandeep-kumar1907/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
